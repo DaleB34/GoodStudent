@@ -1,2 +1,2 @@
 APCSA Programming Practice - 
-Practice in making a class with its own methods
+Practice in making a class with its own methods, coded in IntelliJ
